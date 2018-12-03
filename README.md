@@ -1,10 +1,5 @@
 ## Angular Tabs - Demo Library
 
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
-[![Build Status](https://travis-ci.org/juristr/ngx-tabs-libdemo.svg?branch=v0.0.0-development)](https://travis-ci.org/juristr/ngx-tabs-libdemo)
-
-by [Juri Strumpflohner](https://twitter.com/juristr) · [https://juristr.com/blog](https://juristr.com/blog)
-
 > **WARNING**: This is **not a production ready library**, but rather just an example
 > to showcase how to release custom Angular libraries.
 
@@ -21,26 +16,8 @@ So what's in this repo?
 
 ## Useful links
 
-[Angular Package Format v5.0](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview), design document at Google Docs
-
-## Talks
-
-**Create and publish Angular libs like a Pro (March 2018) -** Juri Strumpflohner at ngVikings, demoing building Angular libraries with ng-packagr, with NX as well as Bazel ([30min talk](https://youtu.be/Tw8TCgeqotg)) ([Slides](https://docs.google.com/presentation/d/1TY2wDLWvbY9hxuhXxFLMY6xfrpdmpMnsTflipEwtsiI/edit?usp=sharing))
-
-[![Juri Strumpflohner - Create & Publish Angular Libs like a PRO at ngVikings](https://img.youtube.com/vi/Tw8TCgeqotg/0.jpg)](https://youtu.be/Tw8TCgeqotg)
-
-**Packaging Angular Libraries (Jan 2018) -** Jason Aden at Angular Mountain View Meetup ([45min talk](https://www.youtube.com/watch?v=QfvwQEJVOig&t=3612s))
-
-[![**Packaging Angular Libraries -** Jason Aden at Angular Mountain View Meetup](https://img.youtube.com/vi/QfvwQEJVOig/0.jpg)](https://youtu.be/QfvwQEJVOig)
-
-**Create and publish Angular libs like a Pro (Dec 2017) -** Juri Strumpflohner at NG-BE ([30min talk](https://youtu.be/K4YMmwxGKjY)) ([Slides](https://drive.google.com/open?id=1KzitBVVepOxgS-gxejehKC4V27ENeFMQ6Gwwrw5O9AE))
-
-[![Juri Strumpflohner - Create and publish Angular libs like a Pro](https://img.youtube.com/vi/K4YMmwxGKjY/0.jpg)](https://youtu.be/K4YMmwxGKjY)
-
-**Packaging Angular (April 2017)-** Jason Aden at ng-conf 2017 ([28min talk](https://youtu.be/unICbsPGFIA))
-
-[![Packaging Angular - Jason Aden](https://img.youtube.com/vi/unICbsPGFIA/0.jpg)](https://youtu.be/unICbsPGFIA)
+[Angular Package Format v6.0](https://goo.gl/4wRtRG), design document at Google Docs
 
 ## Bugs, questions,...
 
-Open an issue here on the repo or simply [reach out to me on Twitter](https://twitter.com/juristr) :smiley:
+Open an issue here on the repo

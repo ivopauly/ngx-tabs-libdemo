@@ -8,7 +8,7 @@
     "copyPackageJson": "copyfiles package.json dist",
     "semantic-release": "semantic-release pre && npm run copyPackageJson && npm publish dist && semantic-release post"
   },
-  "author": "Juri Strumpflohner",
+  "author": "Ivo Pauly",
   "license": "MIT",
   "ngPackage": {
     "lib": {
